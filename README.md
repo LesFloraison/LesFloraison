@@ -4,6 +4,10 @@ Je m'appelle Floraison~ Beginner of Computer Graphics, curious about everything�
 - <a href="https://github.com/LesFloraison/equirectangular2cube"><font color="#4682B4">equirectangular2cube</font></a> : A tool for convert Equirectangular Image to Cubemap built on OpenGL.
 - <a href="https://github.com/LesFloraison/json-cpp"><font color="#4682B4">json-cpp</font></a> : A minimal JSON parser written in C++.
 - <a href="https://github.com/LesFloraison/iniLoader"><font color="#4682B4">iniLoader</font></a> : A minimal ini profile parser written in C++.
+## Skills!
+![skills](https://skills.syvixor.com/api/icons?i=c,cpp,visualstudio,visualstudiocode)
+![skills](https://simpleskill.icons.workers.dev/svg?i=OpenGL,Vulkan)
+![skills](https://skills.syvixor.com/api/icons?i=nginx,debian)
 <!--
 **LesFloraison/LesFloraison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
