@@ -7,7 +7,7 @@ Je m'appelle Floraison~ Beginner of Computer Graphics, curious about everything�
 ## Skills!
 ![skills](https://skills.syvixor.com/api/icons?i=c,cpp,visualstudio,visualstudiocode)
 ![skills](https://simpleskill.icons.workers.dev/svg?i=OpenGL,Vulkan)
-![skills](https://skills.syvixor.com/api/icons?i=nginx,debian)
+![skills](https://skills.syvixor.com/api/icons?i=nginx,debian,git)
 <!--
 **LesFloraison/LesFloraison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
