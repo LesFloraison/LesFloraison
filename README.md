@@ -3,7 +3,7 @@ This is Floraison here~ Beginner of Computer Graphics, curious about everythingï
 Also see me at [floraison.io](https://floraison.io)!
 - <a href="https://github.com/LesFloraison/FloraisonRender"><font color="#4682B4">FloraisonRender</font></a> : A modern real-time GPU-driven renderer built on Vulkan.
 - <a href="https://github.com/LesFloraison/equirectangular2cube"><font color="#4682B4">equirectangular2cube</font></a> : A tool for convert Equirectangular Image to Cubemap built on OpenGL.
-- <a href="https://github.com/LesFloraison/equirectangular2cube"><font color="#4682B4">RenderDuck</font></a> : A fork of RenderDoc aiming to bypass AC.
+- <a href="https://github.com/LesFloraison/RenderDuck"><font color="#4682B4">RenderDuck</font></a> : A fork of RenderDoc aiming to bypass AC.
 - <a href="https://github.com/LesFloraison/gpa-mcp"><font color="#4682B4">gpa-mcp</font></a> : A MCP Server for Intel Graphics Performance Analyzers.
 - <a href="https://github.com/LesFloraison/iniLoader"><font color="#4682B4">iniLoader</font></a> : A minimal ini profile parser written in C++.
 ## Skills!
